@@ -1,4 +1,4 @@
-# X-SPAN---Crosslink-Structural-Pattern-Analyzer-
+# X-SPAN---Crosslink-Structural-Pattern-Analyzer
 
 ```
 
