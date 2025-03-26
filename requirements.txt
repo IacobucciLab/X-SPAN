@@ -1,0 +1,8 @@
+pandas
+matplotlib
+tqdm
+requests
+openpyxl
+PyQt5
+pymol2
+lxml
